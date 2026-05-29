@@ -1,22 +1,23 @@
-# Student Achievement Tracking System
+# Vaccination Checker System
 
-## Description
-A responsive web application to manage and track student achievements.
+This is a simple C project to check vaccination status.
 
 ## Features
-- Add student details
-- Track achievements
-- Responsive dashboard
-- Search functionality
+- Checks age
+- Checks vaccination status
+- Displays result
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+- C Programming
+- Git
+- GitHub
 
 ## How to Run
-1. Download the project
-2. Open index.html in browser
 
-## Author
-Shreyas
+1. Compile the program:
+
+gcc src/vaccination.c -o vaccination
+
+2. Run:
+
+./vaccination

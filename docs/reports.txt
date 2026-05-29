@@ -1,0 +1,12 @@
+Vaccination Checker System
+
+This project checks whether a person is vaccinated or not based on user input.
+
+Modules:
+1. Age Checking
+2. Vaccination Status Checking
+
+Tools Used:
+- VS Code
+- GitHub
+- GCC Compiler
