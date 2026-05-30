@@ -19,7 +19,7 @@ int main() {
         }
     }
     else {
-        printf("Person is underage for vaccination.\n");
+        printf("Person is underage for vaccination..\n");
     }
 
     return 0;
